@@ -1,0 +1,12 @@
+streamlit
+python-dotenv
+requests
+langchain
+langchain-community
+PyPDF2
+python-docx
+python-pptx
+faiss-cpu
+sentence-transformers
+beautifulsoup4
+html2text
